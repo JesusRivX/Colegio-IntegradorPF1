@@ -1,0 +1,4 @@
+Usuario: admin
+Correo electrónico: alonso@gmail.com
+Contraseña: 123
+Rol: administrador
